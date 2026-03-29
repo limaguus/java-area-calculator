@@ -84,7 +84,7 @@ java Main
 ## Exemplo de Uso
 
 ```
-===== CALCULADORA DE ÁREAS =====
+****** CALCULADORA DE ÁREAS ******
 1 - Quadrado
 2 - Retângulo
 3 - Círculo
